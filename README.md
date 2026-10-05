@@ -19,7 +19,15 @@
 
 <div align="center">
 <img width="700" alt="Untitled100_20261005141133" src="https://github.com/user-attachments/assets/30f423d8-9891-49b4-a89a-108830210790" />
+<table>
+  <tr>
+    <td align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1&color=E1D1BC&center=true&multiline=true&repeat=false&width=435&height=50&lines=DO+NOT+TAKE+INSPIRATION%2FCOPY+MY+PONY+DESIGNS!!;SERIOUSLY+DONT!!+THANKS!!+%5E_%5E">
+
+   </td>
+  </tr>
+</table>
 
 <div align="left">
 <img width="300" alt="Untitled72_20261005152353" src="https://github.com/user-attachments/assets/605c6ad4-09e0-4f40-af15-768dcf5cb43a" />
